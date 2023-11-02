@@ -13,7 +13,9 @@ The notebook `ModelContentComparison.ipynb` performs a comparative analysis betw
 
 In the notebook `ExpressionData.ipynb`, the expression data from larvae and adult worms (from [WormBase ParaSite](https://parasite.wormbase.org/expression/trichuris_muris_prjeb126/index.html) & [Duque-Correa, M.A. et al, 2022](https://rdcu.be/disK9)) are integrated with the relevant essential genes predicted by iTMU798. `MetabolomeChart.ipynb` undertakes a comparison between the metabolites found in iTMU798 and the identified metabolites from two separate studies ([Wangchuk, P. et al, 2019](https://rdcu.be/disPs) & [Yeshi, K. et al, 2020](https://www.mdpi.com/881754))
 
-### DOI
+### Cite
+
+[A genome-scale metabolic model of parasitic whipworm. Nat Commun 14, 6937 (2023).](https://doi.org/10.1038/s41467-023-42552-4)
 
 ### Contact
 
